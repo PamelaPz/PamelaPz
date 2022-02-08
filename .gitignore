@@ -1,7 +1,12 @@
-.DS_Store
-node_modules
+
+# dependencies
+/node_modules
+
+# production
 /dist
 
+# misc
+.DS_Store
 
 # local env files
 .env.local
