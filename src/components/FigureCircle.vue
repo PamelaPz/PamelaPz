@@ -1,13 +1,20 @@
 <template>
   <div class="circle">
-    <p>circle</p>
+    <div class="circle-contaier">
+      <img
+        class="circle-imgSkill"
+        :src="require(`@/assets/img/skills/${imgSkill}`)"
+        :alt="nameSkill"
+      />
+    </div>
   </div>
 </template>
 
-<style lang="stylus">
-.circle
-    background-color: rgba(33,170,124,.5)
-    height: 100px
-    width: 100px
-    border-radius: 5rem
-</style>
+<script>
+export default {
+  name: "Skill",
+  props: ["imgSkill", "nameSkill"],
+};
+</script>
+
+<style lang="stylus"></style>

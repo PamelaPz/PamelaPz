@@ -1,21 +1,21 @@
 <template>
-  <div class="hello">
-    <p>
+  <section class="soy section">
+    <p class="soy-info">
       Mi nombre es Pamela, originaria de Querétaro, México. Soy una chica que
       ama programar y ver anime.
     </p>
-    <p>
+    <p class="soy-info">
       Me gusta todo lo relacionado con la tecnología, las computadoras, los
       videojuegos, la innovación, las finanzas y el emprendimiento pero sobre
       todo me gusta crear, maquetar y programar.
     </p>
-    <blockquote>
+    <blockquote class="cita-block">
       <i>
         Trato de aprender nuevas cosas por que intentar es lo que cuenta y no
         importa el tiempo que me tome lograr mis objetivos.
       </i>
     </blockquote>
-  </div>
+  </section>
 </template>
 
 <script>
