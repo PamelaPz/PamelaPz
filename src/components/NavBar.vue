@@ -1,14 +1,22 @@
 <template>
-  <nav>
-    <ul>
-      <li>
+  <nav class="navbar">
+    <ul class="navbar-content">
+      <li class="navbar-item">
         <figure>
-          <img src="" alt="logo pz" />
+          <img
+            src="@/assets/img/logo/logo-blue.png"
+            alt="logo pz"
+            width="60px"
+          />
         </figure>
       </li>
-      <li>Yo soy</li>
-      <li>Proyectos</li>
-      <li>Contáctame</li>
+      <div class="navbar-content">
+        <ul class="navbar-content-inside">
+          <li class="navbar-item">Yo soy</li>
+          <li class="navbar-item">Proyectos</li>
+          <li class="navbar-item">Contáctame</li>
+        </ul>
+      </div>
     </ul>
   </nav>
 </template>
