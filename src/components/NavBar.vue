@@ -4,7 +4,7 @@
       <li class="navbar-item">
         <figure>
           <img
-            src="@/assets/img/logo/logo-blue.png"
+            src="@/assets/img/logo/logo_blue.gif"
             alt="logo pz"
             width="60px"
           />
