@@ -23,6 +23,8 @@
             poppinsB()
     .active
         poppinsB()
+    a
+        cursor pointer
 
 .wp-sites
     background-color $turquesa_lg
@@ -30,7 +32,19 @@
     width 100%
     border-radius 20px
     margin auto
-    // background-image url("./assets/img/projects/calculator-tip.png")
-    // background-repeat: no-repeat;
-    // background-position: center;
-    // background-size: cover;
+    animation zoom 1s infinite
+    transition all .3s ease-in
+
+@keyframes zoom
+  0%
+    box-shadow 0px 0px 0px 0px $gray_dkOP
+  20%
+    box-shadow 0px 0px 10px 5px $gray_dkOP
+  40%
+    box-shadow 0px 0px 20px 10px $gray_dkOP
+  60%
+    box-shadow 0px 0px 20px 10px $gray_dkOP
+  80%
+    box-shadow 0px 0px 10px 5px $gray_dkOP
+  100%
+    box-shadow 0px 0px 0px 0px $gray_dkOP

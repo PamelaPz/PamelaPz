@@ -10,8 +10,9 @@
               :index="index"
               :class="project.id == id ? 'active' : ''"
               @click="clickToSite(project)"
-              >{{ project.title }}</a
             >
+              {{ project.title }}
+            </a>
           </li>
         </ul>
       </div>
