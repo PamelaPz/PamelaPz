@@ -5,7 +5,9 @@
       <div class="redes">
         <ul class="redes-container">
           <li class="redes-item">
-            <a href="https://www.linkedin.com/in/pamela-perez-02/" target="_blank"
+            <a
+              href="https://www.linkedin.com/in/pamela-perez-02/"
+              target="_blank"
               ><p class="redes-item-name">
                 L<span class="name">inkedin</span>
               </p></a
