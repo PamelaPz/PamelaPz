@@ -16,7 +16,7 @@ export default new Vuex.Store({
       {
         id: 1,
         title: "PamelaPz Anterior",
-        link: "https://pamelapz.vercel.app/",
+        link: "https://pamelapz-old.vercel.app/",
         portada: "pamelapz-old.png",
       },
       {
