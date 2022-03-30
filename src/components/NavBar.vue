@@ -3,11 +3,7 @@
     <ul class="navbar-content">
       <li class="navbar-item">
         <figure>
-          <img
-            src="@/assets/img/logo/logo_blue.gif"
-            alt="logo pz"
-            width="60px"
-          />
+          <img src="@/assets/img/logo/logo.png" alt="logo pz" width="60px" />
         </figure>
       </li>
       <div class="navbar-content">
