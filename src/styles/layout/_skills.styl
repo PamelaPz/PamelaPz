@@ -1,0 +1,31 @@
+.skills
+    &-content
+        &-row
+            margin 2.5rem 0
+            display flex
+            flex-wrap: wrap;
+    .circle
+        background-color $green_lgOp
+        height 80px
+        width 80px
+        border-radius 5rem
+        margin 1rem 1.5rem
+        transition .2s all ease-in
+        overflow hidden
+        padding 0
+        display: flex
+        justify-content: center
+        align-items: center
+        &:hover
+            background-color $green_dk
+            box-shadow 1px 2px 5px rgba(#000000, .6)
+            .circle-imgSkill
+                transform scale(1.3)
+        &-contaier
+            width 50%
+            height 50%
+            display flex
+        &-imgSkill
+            width 100%
+            margin auto
+            transition .3s all ease-in

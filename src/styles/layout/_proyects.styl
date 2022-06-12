@@ -1,0 +1,57 @@
+.proyects
+    &-content
+        display flex
+        margin 3.5rem 0
+        &-left
+            width 35%
+            @media screen and (max-width 480px)
+                width 100%
+        &-right
+            width 65%
+            margin auto
+            @media screen and (max-width 480px)
+                width 100%
+        @media screen and (max-width 480px)
+            flex-direction column
+            margin 1.5rem 0
+    &-list
+        list-style none
+        text-decoration none
+        li
+            padding-bottom 2rem
+            &:last-child
+                padding-bottom 0
+        @media screen and (max-width 480px)
+            padding-bottom 2rem
+            li
+                padding-bottom 1rem
+    &-items
+        color $green
+        font-size 1.5rem
+        transition .2s all ease-in-out
+        text-decoration none
+        &:hover
+            poppinsB()
+        @media screen and (max-width 480px)
+            font-size 1rem
+    .active
+        poppinsB()
+    a
+        cursor pointer
+
+.wp-sites
+    background-color $turquesa_lg
+    height 100%
+    width 100%
+    border-radius 20px
+    margin auto
+    animation zoom 1s infinite
+    transition all .3s ease-in
+
+@keyframes zoom
+  0%
+    box-shadow 0px 0px 0px 0px $gray_dkOP
+  33.33%
+    box-shadow 0px 0px 20px 10px $gray_dkOP
+  100%
+    box-shadow 0px 0px 0px 0px $gray_dkOP
