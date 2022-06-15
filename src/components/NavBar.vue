@@ -8,9 +8,16 @@
       </li>
       <div class="navbar-content">
         <ul class="navbar-content-inside">
-          <li class="navbar-item">Yo soy</li>
-          <li class="navbar-item">Proyectos</li>
-          <li class="navbar-item">Contáctame</li>
+          <li class="navbar-item"><a href="#iam">Yo soy</a></li>
+          <li class="navbar-item"><a href="#proyects">Proyectos</a></li>
+          <li class="navbar-item">
+            <a
+              href="https://wa.me/5214423183544?text=Hola!%20Me%20interesa%20saber%20más%20de%20tu%20trabajo"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Contáctame</a
+            >
+          </li>
         </ul>
       </div>
     </ul>

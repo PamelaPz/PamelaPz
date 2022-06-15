@@ -1,7 +1,7 @@
 <template>
   <div>
     <NavBar />
-    <div class="wrapper">
+    <div class="wrapper" id="iam">
       <div class="redes">
         <ul class="redes-container">
           <li class="redes-item">
