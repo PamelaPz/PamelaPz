@@ -20,6 +20,7 @@
       <h3>Tecnologías que uso</h3>
       <div class="skills-content-row">
         <Skin img-skill="vue.png" name-skill="Vue.js" />
+        <Skin img-skill="react.png" name-skill="React.js" />
         <Skin img-skill="stylus.svg" name-skill="Stylus" />
         <Skin img-skill="html.png" name-skill="HTML" />
         <Skin img-skill="js.png" name-skill="JavaScrip" />
