@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on IA Interactive
+- 🔭 I’m currently working on Accenture MX
 - 🌱 I’m currently learning Vue and React
