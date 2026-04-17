@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Accenture MX
-- 🌱 I’m currently learning React and Go
+- 🌱 I’m currently learning React and GitHub Copilot
