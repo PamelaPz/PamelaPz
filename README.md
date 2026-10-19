@@ -1,17 +1,20 @@
-### Hi there 👋
+# Hi, I'm Pamela 👋
 
-<!--
-**PamelaPz/PamelaPz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer from Querétaro, México, with 5+ years building scalable
+enterprise web apps with Angular and TypeScript across banking, marketing
+and consumer goods.
 
-Here are some ideas to get you started:
+## 🔧 What I work with
+Angular · TypeScript · RxJS · NgRx · Node.js · Chart.js · GoJS · Jasmine · Figma
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently learning
+- Modern Angular (Signals, SSR)
+- React & Next.js
+- Web performance & accessibility
+- AI-assisted development
 
-- 🔭 I’m currently working on Accenture MX
-- 🌱 I’m currently learning React and Claude
+## 📌 Featured projects
+- [Portfolio](https://pamelapz.github.io/CV-Digital/) – my personal portfolio built with Vue.js
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/jessicaperez-frontendengineer/) · jpamelapz02@gmail.com
